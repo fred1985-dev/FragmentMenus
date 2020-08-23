@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pnombre">Nombre </string>
+    <string name="papellido">Apellidos</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="texto_contacto">Contacto</string>
+    <string name="texto_acerda_de">Acerca de</string>
+    <string name="title_activity_formulario_contacto">formularioContacto</string>
+    <string name="cNombre">Nombre contacto:</string>
+    <string name="cEmail">Email contacto:</string>
+    <string name="cMensaje">Mensaje:</string>
+    <string name="btEnviar">Enviar:</string>
+    <string name="devTexto">Developer</string>
+    <string name="devAutor">FreddyBang:</string>
+    <string name="devCopy">copyright 2020</string>
+
+
+</resources>
